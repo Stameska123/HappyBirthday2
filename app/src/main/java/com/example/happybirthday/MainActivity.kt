@@ -36,7 +36,8 @@ class MainActivity : ComponentActivity() {
                 ) {
                     GreetingText(
                         message = "Happy Birthday Sam!",
-                        from = "From Emma"
+                        from = "From Emma",
+                        modifier = Modifier.padding(8.dp)
                     )
                 }
             }
@@ -59,7 +60,7 @@ fun GreetingText(message: String, from: String, modifier: Modifier = Modifier){
         Text(
             text = from,
             fontSize = 36.sp,
-            modifier= Modifier
+            modifier = Modifier
                 .padding(16.dp)
                 .align(alignment = Alignment.End)
         )
