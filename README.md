@@ -26,5 +26,5 @@
 
 Скриншоты
 
-!\[Screen1](screenshots/1.png)
+![Screen1](screenshots/1.png)
 
