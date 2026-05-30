@@ -26,5 +26,5 @@
 
 Скриншоты
 
-!\[Screen1](app\screenshots\1.png)
+!\[Screen1](app/screenshots/1.png)
 
