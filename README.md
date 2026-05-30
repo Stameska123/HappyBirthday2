@@ -26,5 +26,5 @@
 
 Скриншоты
 
-![Screen1]([screenshots/1.png](https://github.com/Stameska123/HappyBirthday2/blob/master/screenshots/1.png))
+![Screen1](screenshots/1.png)
 
